@@ -1,34 +1,16 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Página Web</title>
+  <meta charset="UTF-8">
+  <title>Mi Primera Página</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <h1>Bienvenido a Mi Página Web</h1>
-    </header>
-    
-    <nav>
-        <ul>
-            <li><a href="#">Inicio</a></li>
-            <li><a href="#">Acerca de</a></li>
-            <li><a href="#">Contacto</a></li>
-        </ul>
-    </nav>
-    
-    <main>
-        <section>
-            <h2>Acerca de Mí</h2>
-            <p>Soy un apasionado desarrollador web y me encanta aprender nuevas tecnologías.</p>
-        </section>
-        
-        <section>
-            <h2>Contacto</h2>
-            <p>Puedes contactarme en <a href="mailto:correo@example.com">correo@example.com</a>.</p>
-        </section>
-    </main>
+  <h1>¡Bienvenido a mi primera página web!</h1>
+  <p>Esta es mi primera página hecha con HTML y CSS.</p>
+  <p>Estoy aprendiendo a programar páginas web. 🚀</p>
+</body>
+</html>
     
     <footer>
         <p>Derechos de autor &copy; 2023 Mi Página Web</p>
